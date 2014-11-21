@@ -43,5 +43,9 @@ Les documents seront suivis
 Exemple de sommaires :
 
  - Note de cadrage
+	 - Présentation orale
+		 - Avec une diapo
+		 - 10 minutes de présentation
+		 - 5 minutes de commentaires
  - Avant projet
  - Spécifications
