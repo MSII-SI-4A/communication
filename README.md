@@ -6,4 +6,4 @@ par : [Béatrice Nourry](bnourry@concordanceconseil.fr) de Concordance Conseil
 
 ## Cours
 
- - [Introduction](docs/introduction.md)
+ - [Introduction](course/introduction.md)
